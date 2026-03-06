@@ -1,0 +1,10 @@
+numpy
+torch
+torchaudio
+einops
+scipy
+huggingface-hub
+soundfile
+matplotlib
+lion_pytorch
+accelerate

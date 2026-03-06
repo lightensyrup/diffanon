@@ -4,7 +4,7 @@
 
 This repo contains the DiffAnon training and inference pipeline using classifier-free guidance (CFG) for controlling source prosody preservation during voice anonymization.
 
-### You can check the [Demo Webpage](https://) for speech samples.
+### You can check the [Demo Webpage](https://lightensyrup.github.io/diffanon/) for speech samples.
 
 **Requirements**
 
@@ -45,7 +45,7 @@ python infer_anon_dir_cfg_randref.py \
   --config_path config_anon.json \
   --input_dir /path/to/input_wavs \
   --output_dir /path/to/output \
-  --mode vc_pool
+  --mode anon_pool
 ```
 
 **Notes**
