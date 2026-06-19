@@ -1,4 +1,9 @@
+
 # DiffAnon
+**⚠️  This repository has moved.**
+The actively maintained version with the latest updates is at:
+**[https://github.com/rsmlgen/diffanon](https://github.com/rsmlgen/diffanon)**
+
 
 <span style="font-size:1.2em">This is the repo for \"DiffAnon: Diffusion-based Prosody Control for Voice Anonymization\".</span>
 
